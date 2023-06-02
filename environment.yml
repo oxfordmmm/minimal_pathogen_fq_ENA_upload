@@ -1,0 +1,10 @@
+name: ena
+channels:
+        - conda-forge
+        - bioconda
+        - defaults
+dependencies:
+        - biopython
+        - pandas
+        - ena-webin-cli
+        - curl

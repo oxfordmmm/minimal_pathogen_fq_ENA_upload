@@ -1,0 +1,10 @@
+Sample Name,collection date,geographic location (country and/or sea),host common name,host subject id,host health state,host sex,host scientific name,influenza test method,influenza test result,other pathogens tested,other pathogens test result,collector name,collecting institution
+POSITIVE_O23,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford
+POSITIVE_O24,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford
+POSITIVE_P23,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford
+POSITIVE_P24,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford
+SWT01457922,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford
+SWT01568795,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford
+Positive_O24,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford
+SWT01440562,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford
+Positive_P23,2022-10,United Kingdom,human,not collected,not collected,not collected,Homo sapien,RT-PCR,P,none,not applicable,unknown, University of Oxford

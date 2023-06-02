@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SAMPLE_SET>
+  <SAMPLE alias="e397623c-bf87-4995-b1e1-c542e1490e79">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="ce117bc4-2cf9-49e7-addd-cad499a36965">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="91e1e738-93ac-446e-afc1-346fc8c0e1a4">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="9858d39c-95b4-4f95-81cb-775985e1e9b7">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="cde64dcf-5c59-4b73-a61f-a498b5105f07">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="371ded94-cf33-4ec4-905b-58361cff5d74">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="349035a9-c902-4d26-9dd0-b756f2b48895">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="5ddee706-d731-4372-b046-fe862450cc09">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="f1be7296-1d7b-4595-9503-fd72ebd712b3">
+    <TITLE>Influenza genome sequencing</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>11320</TAXON_ID>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000032</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collection date</TAG>
+        <VALUE>2022-10</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>geographic location (country and/or sea)</TAG>
+        <VALUE>United Kingdom</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host common name</TAG>
+        <VALUE>human</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host subject id</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host health state</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host sex</TAG>
+        <VALUE>not collected</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>host scientific name</TAG>
+        <VALUE>Homo sapien</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test method</TAG>
+        <VALUE>RT-PCR</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>influenza test result</TAG>
+        <VALUE>P</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens tested</TAG>
+        <VALUE>none</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>other pathogens test result</TAG>
+        <VALUE>not applicable</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collector name</TAG>
+        <VALUE>unknown</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>collecting institution</TAG>
+        <VALUE> University of Oxford</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+</SAMPLE_SET>
