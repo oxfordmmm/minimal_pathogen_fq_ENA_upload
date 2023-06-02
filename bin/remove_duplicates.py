@@ -7,7 +7,8 @@ import gzip
 def _getReads(fq):
     read_names=[]
     for seq in SeqIO.parse(gzip.open(fq,'rt'),'fastq'):
-        if seq not in read_names:
+        if seq.id not in read_names:
+            read_names.append(seq.id)
             yield seq
 
 with open(sys.argv[2],'wt') as outf:

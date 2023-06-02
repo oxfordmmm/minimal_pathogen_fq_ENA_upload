@@ -81,6 +81,7 @@ process DOWNLOAD_JAR {
 process DEDUPE {
     tag {sample}
 	label 'ena'
+    maxForks 3
 
     input:
     tuple val(sample), path('reads.fastq.gz')

@@ -5,7 +5,7 @@ nextflow.enable.dsl=2
 
 params.webin_jar='https://github.com/enasequence/webin-cli/releases/download/6.4.1/webin-cli-6.4.1.jar'
 params.submissionXML="${projectDir}/ENA/submission.xml"
-
+params.receiptCSV=''
 if (params.ENA == 'test'){
     params.ENA_server = "https://wwwdev.ebi.ac.uk/ena/submit/drop-box/submit/"
 }
@@ -38,14 +38,19 @@ Channel.fromPath("${params.webpasswd}")
 
 Channel.fromPath(params.submissionXML)
     .set{submissionXML}
-
-
+if (params.receiptCSV != ''){
+Channel.fromPath(params.receiptCSV)
+    .set{receiptCSV}
+}
 
 main:
+    if (params.receiptCSV == ''){
     REGISTER(sample_meta, submissionXML, netrc)
+    reciptCSV=REGISTER.out.receiptCSV
+    }
 
-    MAKE_MANIFESTS(REGISTER.out.receiptCSV
-			.combine(REGISTER.out.sample_meta))
+    MAKE_MANIFESTS(receiptCSV
+			.combine(sample_meta))
 
     MAKE_MANIFESTS.out.fqtxt
 			.flatten()
