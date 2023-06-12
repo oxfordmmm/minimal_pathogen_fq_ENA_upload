@@ -31,7 +31,7 @@ def makeSampleRegistrationXML(df, outf):
                 	'host scientific name',	'isolate']
 
     for index,row in df.iterrows():
-        alias=row['Sample Name']
+        alias=row['sample_alias']
         #collection_date=row['collection date']
 
         ## XML

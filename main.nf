@@ -46,7 +46,7 @@ Channel.fromPath(params.receiptCSV)
 main:
     if (params.receiptCSV == ''){
     REGISTER(sample_meta, submissionXML, netrc)
-    reciptCSV=REGISTER.out.receiptCSV
+    receiptCSV=REGISTER.out.receiptCSV
     }
 
     MAKE_MANIFESTS(receiptCSV
